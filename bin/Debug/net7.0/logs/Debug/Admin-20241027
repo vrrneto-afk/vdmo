@@ -1,0 +1,353 @@
+2024-10-27 01:01:12.970 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-27 01:01:42.338 -03:00 [Information] Searching mobs by map id 58
+2024-10-27 01:02:36.358 -03:00 [Information] Searching mob by id 140605
+2024-10-27 01:20:50.740 -03:00 [Information] Searching mobs by map id 58
+2024-10-27 01:41:45.807 -03:00 [Information] Searching mob by id 133740
+2024-10-27 01:43:13.298 -03:00 [Information] Updating mob id 133740
+2024-10-27 01:43:13.896 -03:00 [Information] Mob id 133740 update
+2024-10-27 01:43:14.016 -03:00 [Information] Searching mobs by map id 58
+2024-10-27 01:43:28.189 -03:00 [Information] Searching mob by id 140594
+2024-10-27 01:54:34.825 -03:00 [Information] Searching scan config by id 2173
+2024-10-27 01:55:06.872 -03:00 [Information] Updating scan config id 2173
+2024-10-27 01:55:06.966 -03:00 [Information] Scan config id 2173 update
+2024-10-27 01:55:19.171 -03:00 [Information] Searching scan config by id 2173
+2024-10-27 01:55:26.015 -03:00 [Information] Updating scan config id 2173
+2024-10-27 01:55:26.059 -03:00 [Information] Scan config id 2173 update
+2024-10-27 01:57:38.587 -03:00 [Information] Searching scan config by id 2173
+2024-10-27 01:57:57.651 -03:00 [Information] Updating scan config id 2173
+2024-10-27 01:57:57.673 -03:00 [Information] Scan config id 2173 update
+2024-10-27 01:59:12.380 -03:00 [Information] Searching account by id 160957
+2024-10-27 01:59:31.934 -03:00 [Information] Searching account by id 160957
+2024-10-27 01:59:36.188 -03:00 [Information] Updating account 160957
+2024-10-27 01:59:36.259 -03:00 [Information] Account 160957 updated.
+2024-10-27 02:08:55.007 -03:00 [Information] Searching account by id 160957
+2024-10-27 02:08:59.427 -03:00 [Information] Updating account 160957
+2024-10-27 02:08:59.439 -03:00 [Information] Account 160957 updated.
+2024-10-27 02:18:45.220 -03:00 [Information] Log-in successfull for username "Lukasd"
+2024-10-27 09:55:29.319 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-27 09:55:59.211 -03:00 [Information] Searching account by id 161018
+2024-10-27 09:56:04.636 -03:00 [Information] Updating account 161018
+2024-10-27 09:56:04.644 -03:00 [Information] Account 161018 updated.
+2024-10-27 10:01:17.078 -03:00 [Information] Searching raids by map id 45
+2024-10-27 10:01:19.151 -03:00 [Information] Searching raid by id 140072
+2024-10-27 10:07:32.631 -03:00 [Information] Searching raids by map id 45
+2024-10-27 10:07:34.164 -03:00 [Information] Searching raid by id 140072
+2024-10-27 10:07:40.552 -03:00 [Information] Updating raid id 140072
+2024-10-27 10:07:40.630 -03:00 [Information] Raid id 140072 update
+2024-10-27 10:07:40.702 -03:00 [Information] Searching raids by map id 45
+2024-10-27 10:07:43.093 -03:00 [Information] Searching raid by id 140073
+2024-10-27 10:07:58.909 -03:00 [Information] Updating raid id 140073
+2024-10-27 10:07:58.966 -03:00 [Information] Raid id 140073 update
+2024-10-27 10:07:59.051 -03:00 [Information] Searching raids by map id 45
+2024-10-27 10:08:08.257 -03:00 [Information] Searching raids by map id 39
+2024-10-27 10:08:10.351 -03:00 [Information] Searching raid by id 140068
+2024-10-27 10:08:15.647 -03:00 [Information] Searching raids by map id 39
+2024-10-27 10:08:17.802 -03:00 [Information] Searching raid by id 140067
+2024-10-27 10:08:21.411 -03:00 [Information] Searching raids by map id 39
+2024-10-27 10:08:34.060 -03:00 [Information] Searching raids by map id 44
+2024-10-27 10:08:35.484 -03:00 [Information] Searching raid by id 140066
+2024-10-27 10:08:39.346 -03:00 [Information] Searching raids by map id 44
+2024-10-27 10:08:52.451 -03:00 [Information] Searching raids by map id 41
+2024-10-27 10:08:59.895 -03:00 [Information] Searching raids by map id 40
+2024-10-27 10:09:02.108 -03:00 [Information] Searching raid by id 140071
+2024-10-27 10:09:05.995 -03:00 [Information] Searching raids by map id 40
+2024-10-27 10:09:07.715 -03:00 [Information] Searching raid by id 140070
+2024-10-27 10:09:11.582 -03:00 [Information] Searching raids by map id 40
+2024-10-27 10:10:00.241 -03:00 [Information] Searching raid by id 140069
+2024-10-27 10:10:07.700 -03:00 [Information] Searching raids by map id 40
+2024-10-27 10:10:15.492 -03:00 [Information] Searching raids by map id 46
+2024-10-27 10:10:19.488 -03:00 [Information] Searching raid by id 140075
+2024-10-27 10:10:24.348 -03:00 [Information] Searching raids by map id 46
+2024-10-27 10:10:26.014 -03:00 [Information] Searching raid by id 140074
+2024-10-27 10:10:29.614 -03:00 [Information] Searching raids by map id 46
+2024-10-27 10:31:28.117 -03:00 [Information] Searching container config by id 177
+2024-10-27 10:34:11.839 -03:00 [Information] Updating container config id 177
+2024-10-27 10:34:12.074 -03:00 [Information] Container config id 177 update
+2024-10-27 10:35:30.891 -03:00 [Information] Searching container config by id 177
+2024-10-27 10:35:58.031 -03:00 [Information] Updating container config id 177
+2024-10-27 10:35:58.152 -03:00 [Information] Container config id 177 update
+2024-10-27 10:37:37.920 -03:00 [Information] Searching container config by id 177
+2024-10-27 10:38:13.103 -03:00 [Information] Updating container config id 177
+2024-10-27 10:38:13.152 -03:00 [Information] Container config id 177 update
+2024-10-27 10:38:28.847 -03:00 [Information] Searching server by id 1
+2024-10-27 10:38:31.460 -03:00 [Information] Updating server 1
+2024-10-27 10:38:31.527 -03:00 [Information] Server 1 updated.
+2024-10-27 10:40:43.332 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 10:43:36.561 -03:00 [Information] Updating scan config id 1812
+2024-10-27 10:43:36.692 -03:00 [Information] Scan config id 1812 update
+2024-10-27 10:47:56.418 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 10:52:48.850 -03:00 [Information] Updating scan config id 1812
+2024-10-27 10:52:48.891 -03:00 [Information] Scan config id 1812 update
+2024-10-27 10:53:58.414 -03:00 [Information] Searching container config by id 1510
+2024-10-27 10:54:15.522 -03:00 [Information] Searching container config by id 117
+2024-10-27 10:59:54.271 -03:00 [Information] Searching container config by id 117
+2024-10-27 10:59:57.556 -03:00 [Information] Searching container config by id 117
+2024-10-27 10:59:59.989 -03:00 [Information] Searching container config by id 117
+2024-10-27 11:43:12.360 -03:00 [Information] Searching container config by id 1510
+2024-10-27 11:43:57.616 -03:00 [Information] Updating container config id 1510
+2024-10-27 11:43:57.932 -03:00 [Information] Container config id 1510 update
+2024-10-27 11:44:05.758 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 11:45:28.828 -03:00 [Information] Updating scan config id 1812
+2024-10-27 11:45:28.988 -03:00 [Information] Scan config id 1812 update
+2024-10-27 11:46:38.656 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 11:48:08.664 -03:00 [Information] Updating scan config id 1812
+2024-10-27 11:48:08.719 -03:00 [Information] Scan config id 1812 update
+2024-10-27 11:48:21.772 -03:00 [Information] Searching container config by id 117
+2024-10-27 11:48:39.815 -03:00 [Information] Searching container config by id 1510
+2024-10-27 11:48:45.509 -03:00 [Information] Updating container config id 1510
+2024-10-27 11:48:45.543 -03:00 [Information] Container config id 1510 update
+2024-10-27 11:50:06.369 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 11:50:10.951 -03:00 [Information] Updating scan config id 1812
+2024-10-27 11:50:11.011 -03:00 [Information] Scan config id 1812 update
+2024-10-27 11:51:05.319 -03:00 [Information] Searching container config by id 271
+2024-10-27 11:51:42.065 -03:00 [Information] Searching scan config by id 1812
+2024-10-27 11:51:46.710 -03:00 [Information] Updating scan config id 1812
+2024-10-27 11:51:46.746 -03:00 [Information] Scan config id 1812 update
+2024-10-27 11:53:48.949 -03:00 [Information] Searching raids by map id 83
+2024-10-27 11:53:50.892 -03:00 [Information] Searching raid by id 140350
+2024-10-27 11:54:52.051 -03:00 [Information] Updating raid id 140350
+2024-10-27 11:54:52.410 -03:00 [Information] Raid id 140350 update
+2024-10-27 11:54:52.503 -03:00 [Information] Searching raids by map id 83
+2024-10-27 11:54:54.774 -03:00 [Information] Searching raid by id 140349
+2024-10-27 11:55:08.096 -03:00 [Information] Searching raids by map id 83
+2024-10-27 11:55:11.279 -03:00 [Information] Searching raid by id 140643
+2024-10-27 11:55:37.770 -03:00 [Information] Updating raid id 140643
+2024-10-27 11:55:37.861 -03:00 [Information] Raid id 140643 update
+2024-10-27 11:55:37.934 -03:00 [Information] Searching raids by map id 83
+2024-10-27 11:55:39.743 -03:00 [Information] Searching raid by id 140644
+2024-10-27 11:56:03.288 -03:00 [Information] Updating raid id 140644
+2024-10-27 11:56:03.348 -03:00 [Information] Raid id 140644 update
+2024-10-27 11:56:03.421 -03:00 [Information] Searching raids by map id 83
+2024-10-27 15:04:57.644 -03:00 [Information] Log-in successfull for username "ashborn"
+2024-10-27 15:06:13.216 -03:00 [Information] Creating new account with username "danyel1112"
+2024-10-27 15:06:14.729 -03:00 [Information] Account created with username "danyel1112"
+2024-10-27 16:32:29.675 -03:00 [Information] Log-in failed for username "lukasd"
+2024-10-27 16:32:31.562 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-27 16:54:55.729 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 16:55:05.932 -03:00 [Information] Searching account by id 160982
+2024-10-27 16:55:10.882 -03:00 [Information] Updating account 160982
+2024-10-27 16:55:10.969 -03:00 [Information] Account 160982 updated.
+2024-10-27 17:00:36.938 -03:00 [Information] Searching container config by id 157
+2024-10-27 17:00:59.351 -03:00 [Information] Searching container config by id 1370
+2024-10-27 17:02:22.843 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 17:02:23.038 -03:00 [Information] Searching mobs by map id 27
+2024-10-27 17:02:23.851 -03:00 [Information] Searching mobs by map id 27
+2024-10-27 17:05:08.543 -03:00 [Information] Updating container config id 1370
+2024-10-27 17:05:08.827 -03:00 [Information] Container config id 1370 update
+2024-10-27 17:05:15.459 -03:00 [Information] Searching container config by id 1370
+2024-10-27 17:05:20.715 -03:00 [Information] Updating container config id 1370
+2024-10-27 17:05:20.768 -03:00 [Information] Container config id 1370 update
+2024-10-27 17:06:49.521 -03:00 [Information] Searching account by id 140685
+2024-10-27 17:07:00.456 -03:00 [Information] Updating account 140685
+2024-10-27 17:07:00.466 -03:00 [Information] Account 140685 updated.
+2024-10-27 17:09:07.327 -03:00 [Information] Searching server by id 1
+2024-10-27 17:09:10.829 -03:00 [Information] Updating server 1
+2024-10-27 17:09:10.880 -03:00 [Information] Server 1 updated.
+2024-10-27 17:12:30.069 -03:00 [Information] Searching server by id 1
+2024-10-27 17:12:32.781 -03:00 [Information] Updating server 1
+2024-10-27 17:12:32.792 -03:00 [Information] Server 1 updated.
+2024-10-27 17:14:31.409 -03:00 [Information] Searching container config by id 1370
+2024-10-27 17:14:36.474 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-27 17:15:10.954 -03:00 [Information] Searching account by id 161116
+2024-10-27 17:15:18.822 -03:00 [Information] Updating account 161116
+2024-10-27 17:15:18.837 -03:00 [Information] Account 161116 updated.
+2024-10-27 17:16:59.903 -03:00 [Information] Updating container config id 1370
+2024-10-27 17:17:00.013 -03:00 [Information] Container config id 1370 update
+2024-10-27 17:17:20.693 -03:00 [Information] Searching account by id 140685
+2024-10-27 17:17:25.514 -03:00 [Information] Updating account 140685
+2024-10-27 17:17:25.526 -03:00 [Information] Account 140685 updated.
+2024-10-27 17:17:33.673 -03:00 [Information] Searching account by id 140685
+2024-10-27 17:19:13.583 -03:00 [Information] Searching raids by map id 36
+2024-10-27 17:19:21.998 -03:00 [Information] Searching mobs by map id 36
+2024-10-27 17:19:28.040 -03:00 [Information] Searching mob by id 133825
+2024-10-27 17:20:07.614 -03:00 [Information] Searching container config by id 1370
+2024-10-27 17:20:18.870 -03:00 [Information] Updating container config id 1370
+2024-10-27 17:20:18.910 -03:00 [Information] Container config id 1370 update
+2024-10-27 17:21:14.007 -03:00 [Information] Searching container config by id 1372
+2024-10-27 17:23:45.315 -03:00 [Information] Updating container config id 1372
+2024-10-27 17:23:45.398 -03:00 [Information] Container config id 1372 update
+2024-10-27 17:24:58.212 -03:00 [Information] Searching container config by id 1372
+2024-10-27 17:25:07.675 -03:00 [Information] Updating container config id 1372
+2024-10-27 17:25:07.799 -03:00 [Information] Container config id 1372 update
+2024-10-27 17:26:55.190 -03:00 [Information] Searching server by id 1
+2024-10-27 17:26:57.517 -03:00 [Information] Updating server 1
+2024-10-27 17:26:57.524 -03:00 [Information] Server 1 updated.
+2024-10-27 17:27:27.902 -03:00 [Information] Searching server by id 1
+2024-10-27 17:27:30.605 -03:00 [Information] Updating server 1
+2024-10-27 17:27:30.615 -03:00 [Information] Server 1 updated.
+2024-10-27 17:27:51.838 -03:00 [Information] Updating account 140685
+2024-10-27 17:27:51.847 -03:00 [Information] Account 140685 updated.
+2024-10-27 17:27:58.413 -03:00 [Information] Searching account by id 140685
+2024-10-27 17:29:18.084 -03:00 [Information] Searching container config by id 1372
+2024-10-27 17:29:55.782 -03:00 [Information] Searching raids by map id 70
+2024-10-27 17:29:57.705 -03:00 [Information] Searching raid by id 140341
+2024-10-27 17:30:20.574 -03:00 [Information] Searching container config by id 1075
+2024-10-27 17:30:42.020 -03:00 [Information] Searching container config by id 1372
+2024-10-27 17:31:11.561 -03:00 [Information] Updating container config id 1372
+2024-10-27 17:31:11.665 -03:00 [Information] Container config id 1372 update
+2024-10-27 17:32:47.900 -03:00 [Information] Searching account by id 160930
+2024-10-27 17:32:54.454 -03:00 [Information] Updating account 160930
+2024-10-27 17:32:54.464 -03:00 [Information] Account 160930 updated.
+2024-10-27 17:33:31.018 -03:00 [Information] Searching account by id 161116
+2024-10-27 17:33:34.255 -03:00 [Information] Updating account 161116
+2024-10-27 17:33:34.265 -03:00 [Information] Account 161116 updated.
+2024-10-27 17:35:58.755 -03:00 [Information] Updating account 140685
+2024-10-27 17:35:58.766 -03:00 [Information] Account 140685 updated.
+2024-10-27 17:36:36.592 -03:00 [Information] Searching account by id 161038
+2024-10-27 17:36:41.460 -03:00 [Information] Updating account 161038
+2024-10-27 17:36:41.466 -03:00 [Information] Account 161038 updated.
+2024-10-27 17:36:52.069 -03:00 [Information] Searching account by id 161034
+2024-10-27 17:36:58.682 -03:00 [Information] Updating account 161034
+2024-10-27 17:36:58.690 -03:00 [Information] Account 161034 updated.
+2024-10-27 17:39:43.722 -03:00 [Information] Searching account by id 160930
+2024-10-27 17:39:47.083 -03:00 [Information] Updating account 160930
+2024-10-27 17:39:47.089 -03:00 [Information] Account 160930 updated.
+2024-10-27 17:40:45.378 -03:00 [Information] Searching account by id 160930
+2024-10-27 17:43:13.492 -03:00 [Information] Searching account by id 160932
+2024-10-27 17:43:16.331 -03:00 [Information] Updating account 160932
+2024-10-27 17:43:16.339 -03:00 [Information] Account 160932 updated.
+2024-10-27 17:44:30.275 -03:00 [Information] Searching account by id 161038
+2024-10-27 17:44:43.406 -03:00 [Information] Updating account 161038
+2024-10-27 17:44:43.415 -03:00 [Information] Account 161038 updated.
+2024-10-27 17:45:22.481 -03:00 [Information] Searching account by id 160990
+2024-10-27 17:45:29.421 -03:00 [Information] Updating account 160990
+2024-10-27 17:45:29.432 -03:00 [Information] Account 160990 updated.
+2024-10-27 17:45:39.699 -03:00 [Information] Searching account by id 161034
+2024-10-27 17:46:00.068 -03:00 [Information] Updating account 161034
+2024-10-27 17:46:00.076 -03:00 [Information] Account 161034 updated.
+2024-10-27 17:47:10.385 -03:00 [Information] Searching account by id 161056
+2024-10-27 17:47:16.429 -03:00 [Information] Updating account 161056
+2024-10-27 17:47:16.437 -03:00 [Information] Account 161056 updated.
+2024-10-27 17:47:21.409 -03:00 [Information] Searching account by id 161056
+2024-10-27 17:51:55.266 -03:00 [Information] Searching account by id 160932
+2024-10-27 17:52:11.756 -03:00 [Information] Updating account 160932
+2024-10-27 17:52:11.766 -03:00 [Information] Account 160932 updated.
+2024-10-27 17:56:50.719 -03:00 [Information] Searching account by id 160990
+2024-10-27 17:56:55.036 -03:00 [Information] Updating account 160990
+2024-10-27 17:56:55.048 -03:00 [Information] Account 160990 updated.
+2024-10-27 17:59:09.997 -03:00 [Information] Searching account by id 161056
+2024-10-27 17:59:14.462 -03:00 [Information] Updating account 161056
+2024-10-27 17:59:14.476 -03:00 [Information] Account 161056 updated.
+2024-10-27 18:03:10.715 -03:00 [Information] Searching server by id 1
+2024-10-27 18:03:36.675 -03:00 [Information] Updating server 1
+2024-10-27 18:03:36.689 -03:00 [Information] Server 1 updated.
+2024-10-27 18:09:35.748 -03:00 [Information] Searching account by id 160872
+2024-10-27 18:09:39.314 -03:00 [Information] Updating account 160872
+2024-10-27 18:09:39.326 -03:00 [Information] Account 160872 updated.
+2024-10-27 18:16:32.797 -03:00 [Information] Searching account by id 161094
+2024-10-27 18:16:36.283 -03:00 [Information] Updating account 161094
+2024-10-27 18:16:36.294 -03:00 [Information] Account 161094 updated.
+2024-10-27 18:21:06.221 -03:00 [Information] Searching account by id 161034
+2024-10-27 18:21:12.320 -03:00 [Information] Updating account 161034
+2024-10-27 18:21:12.328 -03:00 [Information] Account 161034 updated.
+2024-10-27 18:23:46.888 -03:00 [Information] Searching account by id 161094
+2024-10-27 18:23:50.358 -03:00 [Information] Updating account 161094
+2024-10-27 18:23:50.368 -03:00 [Information] Account 161094 updated.
+2024-10-27 18:24:01.920 -03:00 [Information] Searching account by id 160957
+2024-10-27 18:24:08.286 -03:00 [Information] Updating account 160957
+2024-10-27 18:24:08.297 -03:00 [Information] Account 160957 updated.
+2024-10-27 18:30:59.049 -03:00 [Information] Searching raids by map id 68
+2024-10-27 18:31:00.674 -03:00 [Information] Searching raid by id 140488
+2024-10-27 18:38:57.781 -03:00 [Information] Searching account by id 160957
+2024-10-27 18:39:01.010 -03:00 [Information] Updating account 160957
+2024-10-27 18:39:01.022 -03:00 [Information] Account 160957 updated.
+2024-10-27 18:40:42.210 -03:00 [Information] Searching raids by map id 83
+2024-10-27 18:40:44.706 -03:00 [Information] Searching raid by id 140349
+2024-10-27 18:41:23.666 -03:00 [Information] Searching raids by map id 84
+2024-10-27 18:41:25.361 -03:00 [Information] Searching raid by id 138670
+2024-10-27 18:41:41.423 -03:00 [Information] Searching raids by map id 83
+2024-10-27 18:41:43.237 -03:00 [Information] Searching raid by id 140349
+2024-10-27 18:41:54.730 -03:00 [Information] Searching account by id 161111
+2024-10-27 18:42:00.055 -03:00 [Information] Updating account 161111
+2024-10-27 18:42:00.063 -03:00 [Information] Account 161111 updated.
+2024-10-27 18:42:34.461 -03:00 [Information] Updating raid id 140349
+2024-10-27 18:42:34.814 -03:00 [Information] Raid id 140349 update
+2024-10-27 18:42:34.890 -03:00 [Information] Searching raids by map id 83
+2024-10-27 18:42:36.993 -03:00 [Information] Searching raid by id 140645
+2024-10-27 18:43:25.402 -03:00 [Information] Updating raid id 140645
+2024-10-27 18:43:25.448 -03:00 [Information] Raid id 140645 update
+2024-10-27 18:43:25.516 -03:00 [Information] Searching raids by map id 83
+2024-10-27 18:48:36.825 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 18:48:50.744 -03:00 [Information] Searching account by id 161018
+2024-10-27 18:48:55.581 -03:00 [Information] Updating account 161018
+2024-10-27 18:48:55.601 -03:00 [Information] Account 161018 updated.
+2024-10-27 18:50:17.899 -03:00 [Information] Log-in failed for username "susamaru"
+2024-10-27 18:50:20.721 -03:00 [Information] Log-in successfull for username "susamaru"
+2024-10-27 18:50:25.830 -03:00 [Information] Searching account by id 161048
+2024-10-27 18:50:28.184 -03:00 [Information] Updating account 161048
+2024-10-27 18:50:28.197 -03:00 [Information] Account 161048 updated.
+2024-10-27 18:55:15.430 -03:00 [Information] Searching account by id 161048
+2024-10-27 18:55:17.274 -03:00 [Information] Updating account 161048
+2024-10-27 18:55:17.282 -03:00 [Information] Account 161048 updated.
+2024-10-27 18:58:23.639 -03:00 [Information] Searching account by id 161018
+2024-10-27 18:58:27.097 -03:00 [Information] Updating account 161018
+2024-10-27 18:58:27.110 -03:00 [Information] Account 161018 updated.
+2024-10-27 18:58:49.337 -03:00 [Information] Deleting account 161034
+2024-10-27 18:58:50.102 -03:00 [Information] Account 161034 deleted.
+2024-10-27 19:18:28.852 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 19:20:30.975 -03:00 [Information] Searching account by id 161041
+2024-10-27 19:20:36.544 -03:00 [Information] Updating account 161041
+2024-10-27 19:20:36.555 -03:00 [Information] Account 161041 updated.
+2024-10-27 19:29:15.053 -03:00 [Information] Searching account by id 161041
+2024-10-27 19:29:18.071 -03:00 [Information] Updating account 161041
+2024-10-27 19:29:18.079 -03:00 [Information] Account 161041 updated.
+2024-10-27 19:30:12.589 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-27 19:30:27.284 -03:00 [Information] Searching server by id 1
+2024-10-27 19:30:43.863 -03:00 [Information] Searching account by id 161036
+2024-10-27 19:30:55.226 -03:00 [Information] Searching account by id 161036
+2024-10-27 19:31:01.968 -03:00 [Information] Updating account 161036
+2024-10-27 19:31:01.982 -03:00 [Information] Account 161036 updated.
+2024-10-27 19:45:35.800 -03:00 [Information] Searching account by id 161094
+2024-10-27 19:45:41.027 -03:00 [Information] Updating account 161094
+2024-10-27 19:45:41.040 -03:00 [Information] Account 161094 updated.
+2024-10-27 19:58:04.975 -03:00 [Information] Log-in failed for username "lukasd"
+2024-10-27 19:58:06.522 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-27 20:13:02.752 -03:00 [Information] Searching raids by map id 83
+2024-10-27 20:13:04.629 -03:00 [Information] Searching raid by id 140646
+2024-10-27 20:13:18.684 -03:00 [Information] Updating raid id 140646
+2024-10-27 20:13:18.757 -03:00 [Information] Raid id 140646 update
+2024-10-27 20:13:18.830 -03:00 [Information] Searching raids by map id 83
+2024-10-27 20:15:27.250 -03:00 [Information] Searching account by id 160872
+2024-10-27 20:15:36.526 -03:00 [Information] Updating account 160872
+2024-10-27 20:15:36.556 -03:00 [Information] Account 160872 updated.
+2024-10-27 20:53:34.424 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-27 20:53:39.040 -03:00 [Information] Searching account by id 140685
+2024-10-27 20:53:43.830 -03:00 [Information] Updating account 140685
+2024-10-27 20:53:43.837 -03:00 [Information] Account 140685 updated.
+2024-10-27 20:53:54.481 -03:00 [Information] Searching account by id 161094
+2024-10-27 20:53:58.427 -03:00 [Information] Updating account 161094
+2024-10-27 20:53:58.437 -03:00 [Information] Account 161094 updated.
+2024-10-27 20:54:15.864 -03:00 [Information] Searching account by id 161126
+2024-10-27 20:54:19.291 -03:00 [Information] Updating account 161126
+2024-10-27 20:54:19.299 -03:00 [Information] Account 161126 updated.
+2024-10-27 21:10:51.932 -03:00 [Information] Searching account by id 140685
+2024-10-27 21:10:54.309 -03:00 [Information] Updating account 140685
+2024-10-27 21:10:54.316 -03:00 [Information] Account 140685 updated.
+2024-10-27 21:14:23.703 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-27 21:14:43.867 -03:00 [Information] Creating new account with username "wiki08"
+2024-10-27 21:14:44.447 -03:00 [Information] Account created with username "wiki08"
+2024-10-27 21:15:30.843 -03:00 [Information] Creating new account with username "CradoV"
+2024-10-27 21:15:31.560 -03:00 [Information] Account created with username "CradoV"
+2024-10-27 21:20:44.718 -03:00 [Information] Creating new account with username "veel92"
+2024-10-27 21:20:45.335 -03:00 [Information] Account created with username "veel92"
+2024-10-27 21:22:45.486 -03:00 [Information] Creating new account with username "VitorJP"
+2024-10-27 21:22:46.047 -03:00 [Information] Account created with username "VitorJP"
+2024-10-27 21:34:15.845 -03:00 [Information] Searching account by id 161126
+2024-10-27 21:34:18.518 -03:00 [Information] Updating account 161126
+2024-10-27 21:34:18.523 -03:00 [Information] Account 161126 updated.
+2024-10-27 21:39:23.424 -03:00 [Information] Searching account by id 161064
+2024-10-27 21:39:27.334 -03:00 [Information] Updating account 161064
+2024-10-27 21:39:27.341 -03:00 [Information] Account 161064 updated.
+2024-10-27 21:46:18.910 -03:00 [Information] Searching account by id 161064
+2024-10-27 21:46:21.982 -03:00 [Information] Updating account 161064
+2024-10-27 21:46:21.989 -03:00 [Information] Account 161064 updated.
+2024-10-27 22:23:58.898 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 22:24:50.075 -03:00 [Information] Searching container config by id 177
+2024-10-27 22:25:09.231 -03:00 [Information] Searching container config by id 111
+2024-10-27 22:31:46.188 -03:00 [Information] Updating container config id 111
+2024-10-27 22:31:46.231 -03:00 [Information] Container config id 111 update
+2024-10-27 22:32:24.496 -03:00 [Information] Searching container config by id 177
+2024-10-27 22:35:33.234 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-27 22:42:49.859 -03:00 [Information] Searching container config by id 111
+2024-10-27 22:43:26.544 -03:00 [Information] Updating container config id 111
+2024-10-27 22:43:26.550 -03:00 [Information] Container config id 111 update

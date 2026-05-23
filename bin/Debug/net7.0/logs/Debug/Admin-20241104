@@ -1,0 +1,347 @@
+2024-11-04 09:51:23.031 -03:00 [Information] Log-in failed for username "lukasd7"
+2024-11-04 09:51:27.309 -03:00 [Information] Log-in successfull for username "lukasd7"
+2024-11-04 09:52:35.314 -03:00 [Information] Creating new account with username "lukasd741"
+2024-11-04 09:52:36.096 -03:00 [Information] Account created with username "lukasd741"
+2024-11-04 10:21:36.525 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 10:24:09.960 -03:00 [Information] Searching mobs by map id 72
+2024-11-04 10:24:12.064 -03:00 [Information] Searching mob by id 140703
+2024-11-04 10:24:24.521 -03:00 [Information] Updating mob id 140703
+2024-11-04 10:24:24.588 -03:00 [Information] Mob id 140703 update
+2024-11-04 10:24:24.653 -03:00 [Information] Searching mobs by map id 72
+2024-11-04 10:24:52.919 -03:00 [Information] Searching mob by id 140877
+2024-11-04 10:24:58.609 -03:00 [Information] Updating mob id 140877
+2024-11-04 10:24:58.681 -03:00 [Information] Mob id 140877 update
+2024-11-04 10:24:58.750 -03:00 [Information] Searching mobs by map id 72
+2024-11-04 10:25:31.455 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 10:25:37.687 -03:00 [Information] Searching mob by id 140875
+2024-11-04 10:26:49.472 -03:00 [Information] Updating mob id 140875
+2024-11-04 10:26:49.531 -03:00 [Information] Mob id 140875 update
+2024-11-04 10:26:49.602 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 10:26:57.569 -03:00 [Information] Searching mob by id 140874
+2024-11-04 10:32:48.125 -03:00 [Information] Searching mob by id 140874
+2024-11-04 10:32:54.495 -03:00 [Information] Searching mob by id 140874
+2024-11-04 11:09:31.629 -03:00 [Information] Updating mob id 140874
+2024-11-04 11:09:32.186 -03:00 [Information] Mob id 140874 update
+2024-11-04 11:09:32.293 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 11:09:49.312 -03:00 [Information] Searching mob by id 140873
+2024-11-04 11:10:20.622 -03:00 [Information] Updating mob id 140873
+2024-11-04 11:10:20.673 -03:00 [Information] Mob id 140873 update
+2024-11-04 11:10:20.745 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 11:10:27.072 -03:00 [Information] Searching mob by id 140872
+2024-11-04 11:10:54.326 -03:00 [Information] Updating mob id 140872
+2024-11-04 11:10:54.385 -03:00 [Information] Mob id 140872 update
+2024-11-04 11:10:54.458 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 11:11:46.571 -03:00 [Information] Searching account by id 160941
+2024-11-04 11:11:51.417 -03:00 [Information] Updating account 160941
+2024-11-04 11:11:51.508 -03:00 [Information] Account 160941 updated.
+2024-11-04 11:13:21.142 -03:00 [Information] Searching mobs by map id 72
+2024-11-04 11:13:53.005 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:13:59.334 -03:00 [Information] Searching mob by id 140720
+2024-11-04 11:14:33.718 -03:00 [Information] Updating mob id 140720
+2024-11-04 11:14:33.759 -03:00 [Information] Mob id 140720 update
+2024-11-04 11:14:33.829 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:14:39.798 -03:00 [Information] Searching mob by id 140719
+2024-11-04 11:15:14.991 -03:00 [Information] Updating mob id 140719
+2024-11-04 11:15:15.051 -03:00 [Information] Mob id 140719 update
+2024-11-04 11:15:15.124 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:15:22.879 -03:00 [Information] Searching mob by id 140718
+2024-11-04 11:16:05.013 -03:00 [Information] Updating mob id 140718
+2024-11-04 11:16:05.072 -03:00 [Information] Mob id 140718 update
+2024-11-04 11:16:05.146 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:16:16.614 -03:00 [Information] Searching mob by id 140717
+2024-11-04 11:16:40.566 -03:00 [Information] Updating mob id 140717
+2024-11-04 11:16:40.621 -03:00 [Information] Mob id 140717 update
+2024-11-04 11:16:40.690 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:16:50.126 -03:00 [Information] Searching mob by id 140712
+2024-11-04 11:17:22.622 -03:00 [Information] Updating mob id 140712
+2024-11-04 11:17:22.659 -03:00 [Information] Mob id 140712 update
+2024-11-04 11:17:22.731 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 11:17:51.155 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:18:09.096 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:22:34.129 -03:00 [Information] Creating new mob with type 75069
+2024-11-04 11:22:34.187 -03:00 [Information] Mob created with type 75069
+2024-11-04 11:22:34.257 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:22:43.521 -03:00 [Information] Duplicating mob 140888
+2024-11-04 11:22:43.539 -03:00 [Information] Mob 140888 duplicated.
+2024-11-04 11:22:43.589 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:22:49.191 -03:00 [Information] Duplicating mob 140889
+2024-11-04 11:22:49.200 -03:00 [Information] Mob 140889 duplicated.
+2024-11-04 11:22:49.247 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:22:57.082 -03:00 [Information] Duplicating mob 140890
+2024-11-04 11:22:57.094 -03:00 [Information] Mob 140890 duplicated.
+2024-11-04 11:22:57.145 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:23:02.839 -03:00 [Information] Duplicating mob 140891
+2024-11-04 11:23:02.848 -03:00 [Information] Mob 140891 duplicated.
+2024-11-04 11:23:02.897 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:23:08.166 -03:00 [Information] Searching mob by id 140892
+2024-11-04 11:25:25.550 -03:00 [Information] Updating mob id 140892
+2024-11-04 11:25:25.586 -03:00 [Information] Mob id 140892 update
+2024-11-04 11:25:25.660 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:25:52.934 -03:00 [Information] Searching mob by id 140891
+2024-11-04 11:26:04.152 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:26:11.092 -03:00 [Information] Searching mob by id 140891
+2024-11-04 11:28:43.222 -03:00 [Information] Updating mob id 140891
+2024-11-04 11:28:43.260 -03:00 [Information] Mob id 140891 update
+2024-11-04 11:28:43.334 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:29:38.579 -03:00 [Information] Searching mob by id 140890
+2024-11-04 11:32:11.692 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 11:33:13.605 -03:00 [Information] Updating mob id 140890
+2024-11-04 11:33:13.643 -03:00 [Information] Mob id 140890 update
+2024-11-04 11:33:13.716 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:33:32.600 -03:00 [Information] Searching account by id 161122
+2024-11-04 11:33:48.126 -03:00 [Information] Searching mob by id 140889
+2024-11-04 11:34:59.245 -03:00 [Information] Updating mob id 140889
+2024-11-04 11:34:59.307 -03:00 [Information] Mob id 140889 update
+2024-11-04 11:34:59.377 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:35:04.691 -03:00 [Information] Searching mob by id 140888
+2024-11-04 11:36:34.941 -03:00 [Information] Updating mob id 140888
+2024-11-04 11:36:34.990 -03:00 [Information] Mob id 140888 update
+2024-11-04 11:36:35.074 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 11:37:13.192 -03:00 [Information] Searching account by id 130665
+2024-11-04 11:37:19.406 -03:00 [Information] Updating account 130665
+2024-11-04 11:37:19.414 -03:00 [Information] Account 130665 updated.
+2024-11-04 11:38:49.972 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:38:52.092 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:40:40.253 -03:00 [Information] Creating new mob with type 75069
+2024-11-04 11:40:40.296 -03:00 [Information] Mob created with type 75069
+2024-11-04 11:40:40.366 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:40:52.959 -03:00 [Information] Duplicating mob 140898
+2024-11-04 11:40:52.968 -03:00 [Information] Mob 140898 duplicated.
+2024-11-04 11:40:53.019 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:40:57.807 -03:00 [Information] Duplicating mob 140899
+2024-11-04 11:40:57.815 -03:00 [Information] Mob 140899 duplicated.
+2024-11-04 11:40:57.862 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:41:03.579 -03:00 [Information] Duplicating mob 140900
+2024-11-04 11:41:03.584 -03:00 [Information] Mob 140900 duplicated.
+2024-11-04 11:41:03.633 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:41:08.024 -03:00 [Information] Duplicating mob 140901
+2024-11-04 11:41:08.038 -03:00 [Information] Mob 140901 duplicated.
+2024-11-04 11:41:08.086 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:41:27.555 -03:00 [Information] Searching mob by id 140902
+2024-11-04 11:43:08.005 -03:00 [Information] Updating mob id 140902
+2024-11-04 11:43:08.054 -03:00 [Information] Mob id 140902 update
+2024-11-04 11:43:08.136 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:44:26.413 -03:00 [Information] Searching mob by id 140901
+2024-11-04 11:44:56.004 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:45:01.389 -03:00 [Information] Searching mob by id 140901
+2024-11-04 11:45:53.894 -03:00 [Information] Updating mob id 140901
+2024-11-04 11:45:53.938 -03:00 [Information] Mob id 140901 update
+2024-11-04 11:45:54.008 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:47:01.684 -03:00 [Information] Searching mob by id 140900
+2024-11-04 11:47:24.357 -03:00 [Information] Updating mob id 140900
+2024-11-04 11:47:24.407 -03:00 [Information] Mob id 140900 update
+2024-11-04 11:47:24.477 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:48:07.699 -03:00 [Information] Searching mob by id 140899
+2024-11-04 11:48:21.557 -03:00 [Information] Updating mob id 140899
+2024-11-04 11:48:21.599 -03:00 [Information] Mob id 140899 update
+2024-11-04 11:48:21.666 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 11:48:45.980 -03:00 [Information] Searching mob by id 140898
+2024-11-04 11:49:13.804 -03:00 [Information] Updating mob id 140898
+2024-11-04 11:49:13.846 -03:00 [Information] Mob id 140898 update
+2024-11-04 11:49:13.919 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 12:24:00.904 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:24:02.487 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:25:35.643 -03:00 [Information] Creating new mob with type 75069
+2024-11-04 12:25:35.688 -03:00 [Information] Mob created with type 75069
+2024-11-04 12:25:35.755 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:25:43.257 -03:00 [Information] Duplicating mob 140908
+2024-11-04 12:25:43.265 -03:00 [Information] Mob 140908 duplicated.
+2024-11-04 12:25:43.315 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:25:49.514 -03:00 [Information] Duplicating mob 140909
+2024-11-04 12:25:49.522 -03:00 [Information] Mob 140909 duplicated.
+2024-11-04 12:25:49.568 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:25:54.748 -03:00 [Information] Duplicating mob 140908
+2024-11-04 12:25:54.756 -03:00 [Information] Mob 140908 duplicated.
+2024-11-04 12:25:54.805 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:26:00.019 -03:00 [Information] Duplicating mob 140908
+2024-11-04 12:26:00.027 -03:00 [Information] Mob 140908 duplicated.
+2024-11-04 12:26:00.076 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:41:56.398 -03:00 [Information] Searching mob by id 140912
+2024-11-04 12:42:13.778 -03:00 [Information] Updating mob id 140912
+2024-11-04 12:42:13.822 -03:00 [Information] Mob id 140912 update
+2024-11-04 12:42:13.892 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:42:20.175 -03:00 [Information] Searching mob by id 140911
+2024-11-04 12:43:27.970 -03:00 [Information] Updating mob id 140911
+2024-11-04 12:43:28.021 -03:00 [Information] Mob id 140911 update
+2024-11-04 12:43:28.092 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 12:44:11.141 -03:00 [Information] Searching mob by id 140910
+2024-11-04 13:29:15.071 -03:00 [Information] Updating mob id 140910
+2024-11-04 13:29:15.115 -03:00 [Information] Mob id 140910 update
+2024-11-04 13:29:15.211 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 13:29:53.827 -03:00 [Information] Searching mob by id 140914
+2024-11-04 13:30:27.511 -03:00 [Information] Updating mob id 140914
+2024-11-04 13:30:27.551 -03:00 [Information] Mob id 140914 update
+2024-11-04 13:30:27.649 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 13:30:35.796 -03:00 [Information] Searching mob by id 140909
+2024-11-04 13:31:36.055 -03:00 [Information] Updating mob id 140909
+2024-11-04 13:31:36.097 -03:00 [Information] Mob id 140909 update
+2024-11-04 13:31:36.194 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:03:11.551 -03:00 [Information] Log-in successfull for username "lukasd7"
+2024-11-04 14:03:21.442 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:03:32.062 -03:00 [Information] Searching mob by id 140882
+2024-11-04 14:03:38.535 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:03:46.138 -03:00 [Information] Duplicating mob 140882
+2024-11-04 14:03:46.147 -03:00 [Information] Mob 140882 duplicated.
+2024-11-04 14:03:46.197 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:03:51.421 -03:00 [Information] Searching mob by id 140918
+2024-11-04 14:04:29.440 -03:00 [Information] Updating mob id 140918
+2024-11-04 14:04:29.478 -03:00 [Information] Mob id 140918 update
+2024-11-04 14:04:29.550 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:10:48.413 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:10:53.820 -03:00 [Information] Searching mob by id 140907
+2024-11-04 14:12:14.356 -03:00 [Information] Searching scan config by id 1812
+2024-11-04 14:14:32.937 -03:00 [Information] Updating scan config id 1812
+2024-11-04 14:14:33.056 -03:00 [Information] Scan config id 1812 update
+2024-11-04 14:20:15.523 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 14:32:36.601 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:32:41.367 -03:00 [Information] Searching mob by id 140919
+2024-11-04 14:33:58.669 -03:00 [Information] Updating mob id 140919
+2024-11-04 14:33:58.715 -03:00 [Information] Mob id 140919 update
+2024-11-04 14:33:58.797 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:34:06.263 -03:00 [Information] Searching mob by id 140920
+2024-11-04 14:34:10.537 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:34:19.723 -03:00 [Information] Searching mob by id 140882
+2024-11-04 14:34:28.420 -03:00 [Information] Updating mob id 140882
+2024-11-04 14:34:28.466 -03:00 [Information] Mob id 140882 update
+2024-11-04 14:34:28.544 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:34:33.923 -03:00 [Information] Searching mob by id 140881
+2024-11-04 14:34:38.499 -03:00 [Information] Updating mob id 140881
+2024-11-04 14:34:38.537 -03:00 [Information] Mob id 140881 update
+2024-11-04 14:34:38.607 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:34:46.685 -03:00 [Information] Searching mob by id 140880
+2024-11-04 14:34:52.443 -03:00 [Information] Updating mob id 140880
+2024-11-04 14:34:52.510 -03:00 [Information] Mob id 140880 update
+2024-11-04 14:34:52.580 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:34:58.403 -03:00 [Information] Searching mob by id 140879
+2024-11-04 14:35:05.331 -03:00 [Information] Updating mob id 140879
+2024-11-04 14:35:05.372 -03:00 [Information] Mob id 140879 update
+2024-11-04 14:35:05.450 -03:00 [Information] Searching mobs by map id 50
+2024-11-04 14:35:15.811 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:35:23.306 -03:00 [Information] Searching mob by id 140907
+2024-11-04 14:35:28.172 -03:00 [Information] Updating mob id 140907
+2024-11-04 14:35:28.217 -03:00 [Information] Mob id 140907 update
+2024-11-04 14:35:28.290 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:35:36.924 -03:00 [Information] Searching mob by id 140906
+2024-11-04 14:35:41.932 -03:00 [Information] Updating mob id 140906
+2024-11-04 14:35:41.966 -03:00 [Information] Mob id 140906 update
+2024-11-04 14:35:42.033 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:35:50.732 -03:00 [Information] Searching mob by id 140905
+2024-11-04 14:35:57.580 -03:00 [Information] Updating mob id 140905
+2024-11-04 14:35:57.629 -03:00 [Information] Mob id 140905 update
+2024-11-04 14:35:57.696 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:36:06.338 -03:00 [Information] Searching mob by id 140904
+2024-11-04 14:36:10.995 -03:00 [Information] Updating mob id 140904
+2024-11-04 14:36:11.045 -03:00 [Information] Mob id 140904 update
+2024-11-04 14:36:11.118 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:36:17.537 -03:00 [Information] Searching mob by id 140903
+2024-11-04 14:36:22.435 -03:00 [Information] Updating mob id 140903
+2024-11-04 14:36:22.487 -03:00 [Information] Mob id 140903 update
+2024-11-04 14:36:22.559 -03:00 [Information] Searching mobs by map id 51
+2024-11-04 14:36:29.653 -03:00 [Information] Searching mob by id 140925
+2024-11-04 14:36:38.994 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:36:45.824 -03:00 [Information] Searching mob by id 140917
+2024-11-04 14:36:51.243 -03:00 [Information] Updating mob id 140917
+2024-11-04 14:36:51.296 -03:00 [Information] Mob id 140917 update
+2024-11-04 14:36:51.369 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:36:55.699 -03:00 [Information] Searching mob by id 140916
+2024-11-04 14:36:58.869 -03:00 [Information] Updating mob id 140916
+2024-11-04 14:36:58.908 -03:00 [Information] Mob id 140916 update
+2024-11-04 14:36:58.978 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:37:04.060 -03:00 [Information] Searching mob by id 140931
+2024-11-04 14:37:07.100 -03:00 [Information] Updating mob id 140931
+2024-11-04 14:37:07.141 -03:00 [Information] Mob id 140931 update
+2024-11-04 14:37:07.214 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:37:12.996 -03:00 [Information] Searching mob by id 140915
+2024-11-04 14:37:19.059 -03:00 [Information] Updating mob id 140915
+2024-11-04 14:37:19.102 -03:00 [Information] Mob id 140915 update
+2024-11-04 14:37:19.173 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:37:23.128 -03:00 [Information] Searching mob by id 140913
+2024-11-04 14:37:27.483 -03:00 [Information] Updating mob id 140913
+2024-11-04 14:37:27.518 -03:00 [Information] Mob id 140913 update
+2024-11-04 14:37:27.585 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:37:32.066 -03:00 [Information] Searching mob by id 140908
+2024-11-04 14:37:36.892 -03:00 [Information] Updating mob id 140908
+2024-11-04 14:37:36.937 -03:00 [Information] Mob id 140908 update
+2024-11-04 14:37:37.007 -03:00 [Information] Searching mobs by map id 52
+2024-11-04 14:38:45.610 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:38:50.645 -03:00 [Information] Searching mob by id 140887
+2024-11-04 14:39:02.588 -03:00 [Information] Updating mob id 140887
+2024-11-04 14:39:02.637 -03:00 [Information] Mob id 140887 update
+2024-11-04 14:39:02.705 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:39:06.865 -03:00 [Information] Searching mob by id 140886
+2024-11-04 14:39:11.500 -03:00 [Information] Updating mob id 140886
+2024-11-04 14:39:11.544 -03:00 [Information] Mob id 140886 update
+2024-11-04 14:39:11.613 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:39:17.498 -03:00 [Information] Searching mob by id 140885
+2024-11-04 14:39:22.235 -03:00 [Information] Updating mob id 140885
+2024-11-04 14:39:22.278 -03:00 [Information] Mob id 140885 update
+2024-11-04 14:39:22.357 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:39:27.338 -03:00 [Information] Searching mob by id 140884
+2024-11-04 14:39:32.235 -03:00 [Information] Updating mob id 140884
+2024-11-04 14:39:32.274 -03:00 [Information] Mob id 140884 update
+2024-11-04 14:39:32.348 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:39:37.235 -03:00 [Information] Searching mob by id 140883
+2024-11-04 14:39:41.412 -03:00 [Information] Updating mob id 140883
+2024-11-04 14:39:41.471 -03:00 [Information] Mob id 140883 update
+2024-11-04 14:39:41.544 -03:00 [Information] Searching mobs by map id 55
+2024-11-04 14:39:53.363 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:39:59.555 -03:00 [Information] Searching mob by id 140897
+2024-11-04 14:40:04.708 -03:00 [Information] Updating mob id 140897
+2024-11-04 14:40:04.765 -03:00 [Information] Mob id 140897 update
+2024-11-04 14:40:04.838 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:09.291 -03:00 [Information] Searching mob by id 140896
+2024-11-04 14:40:12.340 -03:00 [Information] Updating mob id 140896
+2024-11-04 14:40:12.387 -03:00 [Information] Mob id 140896 update
+2024-11-04 14:40:12.454 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:17.089 -03:00 [Information] Searching mob by id 140941
+2024-11-04 14:40:19.667 -03:00 [Information] Updating mob id 140941
+2024-11-04 14:40:19.712 -03:00 [Information] Mob id 140941 update
+2024-11-04 14:40:19.787 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:25.618 -03:00 [Information] Searching mob by id 140895
+2024-11-04 14:40:30.243 -03:00 [Information] Updating mob id 140895
+2024-11-04 14:40:30.289 -03:00 [Information] Mob id 140895 update
+2024-11-04 14:40:30.355 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:34.730 -03:00 [Information] Searching mob by id 140894
+2024-11-04 14:40:39.299 -03:00 [Information] Updating mob id 140894
+2024-11-04 14:40:39.335 -03:00 [Information] Mob id 140894 update
+2024-11-04 14:40:39.405 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:44.850 -03:00 [Information] Searching mob by id 140942
+2024-11-04 14:40:49.273 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:40:54.522 -03:00 [Information] Searching mob by id 140893
+2024-11-04 14:40:59.388 -03:00 [Information] Updating mob id 140893
+2024-11-04 14:40:59.459 -03:00 [Information] Mob id 140893 update
+2024-11-04 14:40:59.542 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:41:05.342 -03:00 [Information] Searching mob by id 140942
+2024-11-04 14:41:08.036 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 14:41:12.280 -03:00 [Information] Searching mob by id 140943
+2024-11-04 14:41:14.891 -03:00 [Information] Updating mob id 140943
+2024-11-04 14:41:14.966 -03:00 [Information] Mob id 140943 update
+2024-11-04 14:41:15.049 -03:00 [Information] Searching mobs by map id 56
+2024-11-04 18:09:31.387 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 18:31:58.353 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 18:33:09.159 -03:00 [Information] Searching account by id 160895
+2024-11-04 18:33:12.390 -03:00 [Information] Updating account 160895
+2024-11-04 18:33:12.404 -03:00 [Information] Account 160895 updated.
+2024-11-04 19:06:01.696 -03:00 [Information] Searching raids by map id 100
+2024-11-04 19:06:09.454 -03:00 [Information] Searching raid by id 138262
+2024-11-04 19:07:11.357 -03:00 [Information] Updating raid id 138262
+2024-11-04 19:07:11.436 -03:00 [Information] Raid id 138262 update
+2024-11-04 19:07:11.514 -03:00 [Information] Searching raids by map id 100
+2024-11-04 19:20:24.376 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 19:40:03.969 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 20:18:54.678 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 21:10:48.814 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 21:10:59.518 -03:00 [Information] Searching account by id 161133
+2024-11-04 21:11:08.465 -03:00 [Information] Updating account 161133
+2024-11-04 21:11:08.478 -03:00 [Information] Account 161133 updated.
+2024-11-04 21:32:37.991 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 21:52:59.728 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 22:08:05.044 -03:00 [Information] Creating new account with username "INOSUKE"
+2024-11-04 22:08:05.959 -03:00 [Information] Account created with username "INOSUKE"
+2024-11-04 22:17:45.163 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-11-04 22:18:01.174 -03:00 [Information] Searching account by id 161048
+2024-11-04 22:19:20.145 -03:00 [Information] Updating account 161048
+2024-11-04 22:19:20.157 -03:00 [Information] Account 161048 updated.
+2024-11-04 22:24:06.113 -03:00 [Information] Searching account by id 161048
+2024-11-04 22:24:09.300 -03:00 [Information] Updating account 161048
+2024-11-04 22:24:09.315 -03:00 [Information] Account 161048 updated.

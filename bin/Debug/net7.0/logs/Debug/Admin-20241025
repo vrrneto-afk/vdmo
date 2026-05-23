@@ -1,0 +1,328 @@
+2024-10-25 00:33:41.102 -03:00 [Information] Log-in successfull for username "Lukasd"
+2024-10-25 09:46:35.940 -03:00 [Information] Log-in failed for username "lukasd"
+2024-10-25 09:46:44.809 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-25 09:51:49.462 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 09:52:01.526 -03:00 [Information] Searching account by id 161094
+2024-10-25 09:52:08.301 -03:00 [Information] Updating account 161094
+2024-10-25 09:52:08.508 -03:00 [Information] Account 161094 updated.
+2024-10-25 10:17:13.683 -03:00 [Information] Searching scan config by id 2198
+2024-10-25 10:21:27.599 -03:00 [Information] Searching scan config by id 2197
+2024-10-25 10:22:44.967 -03:00 [Information] Searching scan config by id 2239
+2024-10-25 10:23:17.647 -03:00 [Information] Searching scan config by id 2224
+2024-10-25 10:26:33.134 -03:00 [Information] Searching scan config by id 2239
+2024-10-25 10:27:28.334 -03:00 [Information] Searching scan config by id 2224
+2024-10-25 10:31:12.239 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 11:21:27.853 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-25 11:21:34.730 -03:00 [Information] Searching container config by id 1074
+2024-10-25 11:21:41.796 -03:00 [Information] Searching container config by id 176
+2024-10-25 11:33:42.440 -03:00 [Information] Log-in successfull for username "ashborn"
+2024-10-25 11:34:02.017 -03:00 [Information] Updating container config id 176
+2024-10-25 11:34:02.287 -03:00 [Information] Container config id 176 update
+2024-10-25 11:34:17.115 -03:00 [Information] Searching container config by id 176
+2024-10-25 11:37:18.990 -03:00 [Information] Deleting account 161115
+2024-10-25 11:37:20.276 -03:00 [Information] Account 161115 deleted.
+2024-10-25 11:37:27.648 -03:00 [Information] Deleting account 161088
+2024-10-25 11:37:27.768 -03:00 [Information] Account 161088 deleted.
+2024-10-25 11:38:59.502 -03:00 [Information] Searching account by id 161121
+2024-10-25 11:39:01.585 -03:00 [Information] Updating account 161121
+2024-10-25 11:39:01.606 -03:00 [Information] Account 161121 updated.
+2024-10-25 11:39:03.213 -03:00 [Information] Updating container config id 176
+2024-10-25 11:39:03.252 -03:00 [Information] Container config id 176 update
+2024-10-25 11:39:11.322 -03:00 [Information] Searching container config by id 176
+2024-10-25 11:39:25.533 -03:00 [Information] Updating container config id 176
+2024-10-25 11:39:25.540 -03:00 [Information] Container config id 176 update
+2024-10-25 11:40:57.341 -03:00 [Information] Deleting account 161121
+2024-10-25 11:40:58.065 -03:00 [Information] Account 161121 deleted.
+2024-10-25 11:40:59.509 -03:00 [Information] Searching server by id 1
+2024-10-25 11:41:02.475 -03:00 [Information] Updating server 1
+2024-10-25 11:41:02.530 -03:00 [Information] Server 1 updated.
+2024-10-25 11:45:46.431 -03:00 [Information] Creating new account with username "bugs123"
+2024-10-25 11:45:47.426 -03:00 [Information] Account created with username "bugs123"
+2024-10-25 11:53:41.486 -03:00 [Information] Searching server by id 1
+2024-10-25 12:07:25.472 -03:00 [Information] Searching container config by id 37
+2024-10-25 12:09:37.753 -03:00 [Information] Creating new account with username "leleco1"
+2024-10-25 12:09:38.513 -03:00 [Information] Account created with username "leleco1"
+2024-10-25 12:16:19.921 -03:00 [Information] Searching scan config by id 2223
+2024-10-25 12:26:34.173 -03:00 [Information] Searching container config by id 142
+2024-10-25 13:01:13.595 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:01:19.113 -03:00 [Information] Searching mob by id 140448
+2024-10-25 13:01:46.595 -03:00 [Information] Updating mob id 140448
+2024-10-25 13:01:46.981 -03:00 [Information] Mob id 140448 update
+2024-10-25 13:01:47.059 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:01:49.196 -03:00 [Information] Searching mob by id 140482
+2024-10-25 13:02:08.888 -03:00 [Information] Updating mob id 140482
+2024-10-25 13:02:08.959 -03:00 [Information] Mob id 140482 update
+2024-10-25 13:02:09.030 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:02:11.876 -03:00 [Information] Searching mob by id 140489
+2024-10-25 13:02:22.255 -03:00 [Information] Updating mob id 140489
+2024-10-25 13:02:22.308 -03:00 [Information] Mob id 140489 update
+2024-10-25 13:02:22.380 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:02:24.539 -03:00 [Information] Searching mob by id 140460
+2024-10-25 13:02:49.039 -03:00 [Information] Updating mob id 140460
+2024-10-25 13:02:49.096 -03:00 [Information] Mob id 140460 update
+2024-10-25 13:02:49.162 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:02:52.078 -03:00 [Information] Searching mob by id 140444
+2024-10-25 13:03:05.199 -03:00 [Information] Updating mob id 140444
+2024-10-25 13:03:05.268 -03:00 [Information] Mob id 140444 update
+2024-10-25 13:03:05.341 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:03:07.365 -03:00 [Information] Searching mob by id 140441
+2024-10-25 13:03:17.063 -03:00 [Information] Updating mob id 140441
+2024-10-25 13:03:17.113 -03:00 [Information] Mob id 140441 update
+2024-10-25 13:03:17.186 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:04:49.140 -03:00 [Information] Searching mob by id 140456
+2024-10-25 13:05:07.919 -03:00 [Information] Updating mob id 140456
+2024-10-25 13:05:07.960 -03:00 [Information] Mob id 140456 update
+2024-10-25 13:05:08.061 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:05:32.648 -03:00 [Information] Searching mob by id 140495
+2024-10-25 13:05:57.263 -03:00 [Information] Updating mob id 140495
+2024-10-25 13:05:57.297 -03:00 [Information] Mob id 140495 update
+2024-10-25 13:05:57.369 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:06:54.456 -03:00 [Information] Deleting mob 140496
+2024-10-25 13:06:54.461 -03:00 [Information] Mob 140496 deleted.
+2024-10-25 13:06:54.515 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:06:58.164 -03:00 [Information] Searching mob by id 140492
+2024-10-25 13:07:27.087 -03:00 [Information] Updating mob id 140492
+2024-10-25 13:07:27.142 -03:00 [Information] Mob id 140492 update
+2024-10-25 13:07:27.213 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:08:06.900 -03:00 [Information] Searching mob by id 140497
+2024-10-25 13:08:24.671 -03:00 [Information] Updating mob id 140497
+2024-10-25 13:08:24.715 -03:00 [Information] Mob id 140497 update
+2024-10-25 13:08:24.794 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:09:01.160 -03:00 [Information] Searching raids by map id 72
+2024-10-25 13:09:05.690 -03:00 [Information] Searching raids by map id 72
+2024-10-25 13:09:50.811 -03:00 [Information] Creating new raid with type 99493
+2024-10-25 13:09:50.857 -03:00 [Information] Raid created with type 99493
+2024-10-25 13:09:50.928 -03:00 [Information] Searching raids by map id 72
+2024-10-25 13:09:52.940 -03:00 [Information] Searching raid by id 140499
+2024-10-25 13:09:58.496 -03:00 [Information] Updating raid id 140499
+2024-10-25 13:09:58.555 -03:00 [Information] Raid id 140499 update
+2024-10-25 13:09:58.630 -03:00 [Information] Searching raids by map id 72
+2024-10-25 13:10:41.621 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:10:44.294 -03:00 [Information] Deleting mob 140500
+2024-10-25 13:10:44.297 -03:00 [Information] Mob 140500 deleted.
+2024-10-25 13:10:44.347 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:10:47.721 -03:00 [Information] Deleting mob 140498
+2024-10-25 13:10:47.725 -03:00 [Information] Mob 140498 deleted.
+2024-10-25 13:10:47.773 -03:00 [Information] Searching mobs by map id 72
+2024-10-25 13:53:49.811 -03:00 [Information] Searching scan config by id 31485
+2024-10-25 13:54:03.210 -03:00 [Information] Searching scan config by id 31514
+2024-10-25 13:54:10.552 -03:00 [Information] Searching scan config by id 41771
+2024-10-25 13:54:21.706 -03:00 [Information] Updating scan config id 41771
+2024-10-25 13:54:21.787 -03:00 [Information] Scan config id 41771 update
+2024-10-25 13:54:27.011 -03:00 [Information] Searching scan config by id 31514
+2024-10-25 13:55:46.385 -03:00 [Information] Searching container config by id 176
+2024-10-25 13:59:40.929 -03:00 [Information] Updating container config id 176
+2024-10-25 13:59:40.972 -03:00 [Information] Container config id 176 update
+2024-10-25 14:16:24.476 -03:00 [Information] Searching server by id 1
+2024-10-25 14:16:26.796 -03:00 [Information] Updating server 1
+2024-10-25 14:16:26.806 -03:00 [Information] Server 1 updated.
+2024-10-25 14:45:58.346 -03:00 [Information] Searching scan config by id 31485
+2024-10-25 14:58:15.713 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-25 15:17:13.930 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:17:16.213 -03:00 [Information] Searching raid by id 140494
+2024-10-25 15:17:45.636 -03:00 [Information] Updating raid id 140494
+2024-10-25 15:17:46.266 -03:00 [Information] Raid id 140494 update
+2024-10-25 15:17:46.348 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:17:48.258 -03:00 [Information] Searching raid by id 140493
+2024-10-25 15:17:57.153 -03:00 [Information] Updating raid id 140493
+2024-10-25 15:17:57.217 -03:00 [Information] Raid id 140493 update
+2024-10-25 15:17:57.286 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:18:00.090 -03:00 [Information] Searching raid by id 140491
+2024-10-25 15:18:10.657 -03:00 [Information] Updating raid id 140491
+2024-10-25 15:18:10.720 -03:00 [Information] Raid id 140491 update
+2024-10-25 15:18:10.793 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:19:46.359 -03:00 [Information] Searching raid by id 140503
+2024-10-25 15:20:33.361 -03:00 [Information] Updating raid id 140503
+2024-10-25 15:20:33.403 -03:00 [Information] Raid id 140503 update
+2024-10-25 15:20:33.471 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:20:37.930 -03:00 [Information] Searching raid by id 140502
+2024-10-25 15:21:56.008 -03:00 [Information] Updating raid id 140502
+2024-10-25 15:21:56.062 -03:00 [Information] Raid id 140502 update
+2024-10-25 15:21:56.136 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:21:59.317 -03:00 [Information] Searching raid by id 140501
+2024-10-25 15:22:06.369 -03:00 [Information] Updating raid id 140501
+2024-10-25 15:22:06.413 -03:00 [Information] Raid id 140501 update
+2024-10-25 15:22:06.483 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:22:08.791 -03:00 [Information] Searching raid by id 140504
+2024-10-25 15:22:13.514 -03:00 [Information] Updating raid id 140504
+2024-10-25 15:22:13.567 -03:00 [Information] Raid id 140504 update
+2024-10-25 15:22:13.634 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:22:17.624 -03:00 [Information] Searching raid by id 140507
+2024-10-25 15:22:22.479 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:32:17.654 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 15:33:23.102 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-25 15:33:38.065 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:33:41.269 -03:00 [Information] Searching raid by id 140490
+2024-10-25 15:34:19.513 -03:00 [Information] Updating raid id 140490
+2024-10-25 15:34:19.564 -03:00 [Information] Raid id 140490 update
+2024-10-25 15:34:19.629 -03:00 [Information] Searching raids by map id 72
+2024-10-25 15:36:08.686 -03:00 [Information] Searching account by id 161094
+2024-10-25 15:36:20.692 -03:00 [Information] Updating account 161094
+2024-10-25 15:36:20.790 -03:00 [Information] Account 161094 updated.
+2024-10-25 15:36:43.895 -03:00 [Information] Searching account by id 161013
+2024-10-25 15:36:49.696 -03:00 [Information] Updating account 161013
+2024-10-25 15:36:49.709 -03:00 [Information] Account 161013 updated.
+2024-10-25 15:37:27.410 -03:00 [Information] Searching account by id 140676
+2024-10-25 15:37:32.042 -03:00 [Information] Updating account 140676
+2024-10-25 15:37:32.052 -03:00 [Information] Account 140676 updated.
+2024-10-25 15:38:32.620 -03:00 [Information] Searching account by id 150774
+2024-10-25 15:38:36.637 -03:00 [Information] Updating account 150774
+2024-10-25 15:38:36.649 -03:00 [Information] Account 150774 updated.
+2024-10-25 15:47:54.342 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 15:48:21.439 -03:00 [Information] Searching account by id 161012
+2024-10-25 15:48:32.096 -03:00 [Information] Updating account 161012
+2024-10-25 15:48:32.297 -03:00 [Information] Account 161012 updated.
+2024-10-25 16:00:59.088 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 16:06:08.744 -03:00 [Information] Log-in successfull for username "avan10"
+2024-10-25 17:41:18.623 -03:00 [Information] Log-in successfull for username "lukasd"
+2024-10-25 17:41:42.027 -03:00 [Information] Deleting account 161109
+2024-10-25 17:41:42.615 -03:00 [Information] Account 161109 deleted.
+2024-10-25 19:15:11.964 -03:00 [Information] Log-in successfull for username "aelas12"
+2024-10-25 19:15:12.121 -03:00 [Information] Searching mobs by map id 6
+2024-10-25 19:15:12.819 -03:00 [Information] Searching mobs by map id 6
+2024-10-25 19:15:31.386 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:15:59.006 -03:00 [Information] Searching mob by id 135593
+2024-10-25 19:22:23.037 -03:00 [Information] Searching mob by id 135593
+2024-10-25 19:22:24.226 -03:00 [Information] Searching mob by id 135593
+2024-10-25 19:25:06.799 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 19:25:19.670 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:25:46.795 -03:00 [Information] Searching mob by id 135593
+2024-10-25 19:44:35.121 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 19:44:56.131 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:45:02.757 -03:00 [Information] Searching mob by id 135593
+2024-10-25 19:45:55.506 -03:00 [Information] Updating mob id 135593
+2024-10-25 19:45:56.101 -03:00 [Information] Mob id 135593 update
+2024-10-25 19:45:56.463 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:46:05.777 -03:00 [Information] Searching mob by id 135594
+2024-10-25 19:46:39.690 -03:00 [Information] Updating mob id 135594
+2024-10-25 19:46:39.761 -03:00 [Information] Mob id 135594 update
+2024-10-25 19:46:40.088 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:46:46.946 -03:00 [Information] Searching mob by id 135595
+2024-10-25 19:47:14.387 -03:00 [Information] Updating mob id 135595
+2024-10-25 19:47:14.473 -03:00 [Information] Mob id 135595 update
+2024-10-25 19:47:14.787 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:47:29.388 -03:00 [Information] Searching mob by id 135596
+2024-10-25 19:47:43.929 -03:00 [Information] Updating mob id 135596
+2024-10-25 19:47:43.994 -03:00 [Information] Mob id 135596 update
+2024-10-25 19:47:44.314 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:47:57.482 -03:00 [Information] Searching mob by id 135597
+2024-10-25 19:48:18.225 -03:00 [Information] Updating mob id 135597
+2024-10-25 19:48:18.285 -03:00 [Information] Mob id 135597 update
+2024-10-25 19:48:18.609 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:48:27.367 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:48:31.058 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:48:37.566 -03:00 [Information] Searching mob by id 135598
+2024-10-25 19:48:54.015 -03:00 [Information] Updating mob id 135598
+2024-10-25 19:48:54.109 -03:00 [Information] Mob id 135598 update
+2024-10-25 19:48:54.456 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:49:06.241 -03:00 [Information] Searching mob by id 135599
+2024-10-25 19:49:20.704 -03:00 [Information] Updating mob id 135599
+2024-10-25 19:49:20.785 -03:00 [Information] Mob id 135599 update
+2024-10-25 19:49:21.041 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:50:01.912 -03:00 [Information] Searching mob by id 135600
+2024-10-25 19:50:16.636 -03:00 [Information] Updating mob id 135600
+2024-10-25 19:50:16.773 -03:00 [Information] Mob id 135600 update
+2024-10-25 19:50:17.197 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:50:25.231 -03:00 [Information] Searching mob by id 135601
+2024-10-25 19:50:42.273 -03:00 [Information] Updating mob id 135601
+2024-10-25 19:50:42.327 -03:00 [Information] Mob id 135601 update
+2024-10-25 19:50:42.656 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:50:55.982 -03:00 [Information] Searching mob by id 135602
+2024-10-25 19:51:09.221 -03:00 [Information] Updating mob id 135602
+2024-10-25 19:51:09.291 -03:00 [Information] Mob id 135602 update
+2024-10-25 19:51:09.557 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:51:24.089 -03:00 [Information] Searching mob by id 135603
+2024-10-25 19:51:46.898 -03:00 [Information] Updating mob id 135603
+2024-10-25 19:51:46.958 -03:00 [Information] Mob id 135603 update
+2024-10-25 19:51:47.331 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:52:05.555 -03:00 [Information] Searching mob by id 135789
+2024-10-25 19:52:17.292 -03:00 [Information] Updating mob id 135789
+2024-10-25 19:52:17.353 -03:00 [Information] Mob id 135789 update
+2024-10-25 19:52:17.631 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:52:23.826 -03:00 [Information] Searching mob by id 135790
+2024-10-25 19:52:35.632 -03:00 [Information] Updating mob id 135790
+2024-10-25 19:52:35.679 -03:00 [Information] Mob id 135790 update
+2024-10-25 19:52:36.061 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:52:44.718 -03:00 [Information] Searching mob by id 140509
+2024-10-25 19:52:57.356 -03:00 [Information] Updating mob id 140509
+2024-10-25 19:52:57.436 -03:00 [Information] Mob id 140509 update
+2024-10-25 19:52:57.824 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:53:11.064 -03:00 [Information] Searching mob by id 140510
+2024-10-25 19:53:17.868 -03:00 [Information] Updating mob id 140510
+2024-10-25 19:53:17.922 -03:00 [Information] Mob id 140510 update
+2024-10-25 19:53:18.209 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:53:29.924 -03:00 [Information] Searching mob by id 140521
+2024-10-25 19:53:40.275 -03:00 [Information] Updating mob id 140521
+2024-10-25 19:53:40.345 -03:00 [Information] Mob id 140521 update
+2024-10-25 19:53:40.615 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:53:51.948 -03:00 [Information] Searching mob by id 140523
+2024-10-25 19:53:58.434 -03:00 [Information] Updating mob id 140523
+2024-10-25 19:53:58.498 -03:00 [Information] Mob id 140523 update
+2024-10-25 19:53:58.774 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:54:09.596 -03:00 [Information] Searching mob by id 140522
+2024-10-25 19:54:17.602 -03:00 [Information] Updating mob id 140522
+2024-10-25 19:54:17.650 -03:00 [Information] Mob id 140522 update
+2024-10-25 19:54:17.939 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:54:40.141 -03:00 [Information] Searching mob by id 135589
+2024-10-25 19:54:53.959 -03:00 [Information] Updating mob id 135589
+2024-10-25 19:54:54.024 -03:00 [Information] Mob id 135589 update
+2024-10-25 19:54:55.047 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:55:04.065 -03:00 [Information] Searching mob by id 140511
+2024-10-25 19:55:10.338 -03:00 [Information] Updating mob id 140511
+2024-10-25 19:55:10.393 -03:00 [Information] Mob id 140511 update
+2024-10-25 19:55:10.676 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:55:19.861 -03:00 [Information] Searching mob by id 135587
+2024-10-25 19:55:35.152 -03:00 [Information] Updating mob id 135587
+2024-10-25 19:55:35.220 -03:00 [Information] Mob id 135587 update
+2024-10-25 19:55:35.540 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:55:56.458 -03:00 [Information] Searching mob by id 140514
+2024-10-25 19:56:03.329 -03:00 [Information] Updating mob id 140514
+2024-10-25 19:56:03.378 -03:00 [Information] Mob id 140514 update
+2024-10-25 19:56:03.669 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:56:17.590 -03:00 [Information] Searching mob by id 140516
+2024-10-25 19:56:24.161 -03:00 [Information] Updating mob id 140516
+2024-10-25 19:56:24.266 -03:00 [Information] Mob id 140516 update
+2024-10-25 19:56:24.590 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:56:33.262 -03:00 [Information] Searching mob by id 135584
+2024-10-25 19:56:45.976 -03:00 [Information] Updating mob id 135584
+2024-10-25 19:56:46.063 -03:00 [Information] Mob id 135584 update
+2024-10-25 19:56:46.377 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:57:06.058 -03:00 [Information] Searching mob by id 140531
+2024-10-25 19:57:12.777 -03:00 [Information] Updating mob id 140531
+2024-10-25 19:57:12.829 -03:00 [Information] Mob id 140531 update
+2024-10-25 19:57:13.116 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:57:20.627 -03:00 [Information] Searching mob by id 140515
+2024-10-25 19:57:29.313 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:57:43.305 -03:00 [Information] Searching mob by id 140528
+2024-10-25 19:57:50.456 -03:00 [Information] Updating mob id 140528
+2024-10-25 19:57:50.502 -03:00 [Information] Mob id 140528 update
+2024-10-25 19:57:50.793 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:58:01.415 -03:00 [Information] Searching mob by id 140517
+2024-10-25 19:58:07.807 -03:00 [Information] Updating mob id 140517
+2024-10-25 19:58:07.855 -03:00 [Information] Mob id 140517 update
+2024-10-25 19:58:08.148 -03:00 [Information] Searching mobs by map id 39
+2024-10-25 19:58:51.244 -03:00 [Information] Searching account by id 161094
+2024-10-25 19:58:56.155 -03:00 [Information] Updating account 161094
+2024-10-25 19:58:56.242 -03:00 [Information] Account 161094 updated.
+2024-10-25 20:11:03.956 -03:00 [Information] Searching mob by id 135593
+2024-10-25 20:11:04.949 -03:00 [Information] Searching mob by id 135593
+2024-10-25 20:11:05.384 -03:00 [Information] Invalid mob id parameter: "135593"
+2024-10-25 20:11:05.423 -03:00 [Information] Invalid mob id parameter: "135593"
+2024-10-25 21:48:49.779 -03:00 [Information] Log-in successfull for username "ricardo1"
+2024-10-25 21:49:01.069 -03:00 [Information] Searching account by id 161064
+2024-10-25 21:49:08.289 -03:00 [Information] Updating account 161064
+2024-10-25 21:49:08.299 -03:00 [Information] Account 161064 updated.
+2024-10-25 23:29:46.005 -03:00 [Information] Log-in successfull for username "Lukasd"
+2024-10-25 23:30:35.167 -03:00 [Information] Searching raids by map id 61
+2024-10-25 23:30:42.504 -03:00 [Information] Searching raid by id 138694
+2024-10-25 23:31:04.008 -03:00 [Information] Searching scan config by id 2146
+2024-10-25 23:32:06.742 -03:00 [Information] Searching scan config by id 2583
+2024-10-25 23:33:05.838 -03:00 [Information] Searching scan config by id 2583
+2024-10-25 23:33:07.089 -03:00 [Information] Searching scan config by id 2583
+2024-10-25 23:33:12.641 -03:00 [Information] Searching scan config by id 2583
+2024-10-25 23:33:13.858 -03:00 [Information] Searching scan config by id 2583
+2024-10-25 23:34:26.606 -03:00 [Information] Searching raids by map id 61
+2024-10-25 23:34:28.521 -03:00 [Information] Searching raid by id 138694
+2024-10-25 23:35:00.175 -03:00 [Information] Searching scan config by id 2146
+2024-10-25 23:40:00.571 -03:00 [Information] Log-in successfull for username "Lukasd"
+2024-10-25 23:40:18.025 -03:00 [Information] Searching scan config by id 1771

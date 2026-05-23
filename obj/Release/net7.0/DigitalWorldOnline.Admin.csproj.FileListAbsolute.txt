@@ -1,0 +1,273 @@
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\appsettings.Development.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\appsettings.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.staticwebassets.runtime.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.exe
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\wwwroot\Images\dso_header.png
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.deps.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.runtimeconfig.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Core.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Identity.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Blazored.LocalStorage.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\FluentValidation.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Contracts.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Data.SqlClient.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.SqlServer.Server.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MudBlazor.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Quartz.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Formatting.Compact.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Settings.Configuration.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.File.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.RollingFile.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Drawing.Common.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Linq.Dynamic.Core.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Memory.Data.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Runtime.Caching.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Permissions.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Windows.Extensions.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.pdb
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.pdb
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.AssemblyReference.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfoInputs.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfo.cs
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.CoreCompileInputs.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cs
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.DigitalWorldOnline.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.build.DigitalWorldOnline.Admin.props
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.DigitalWorldOnline.Admin.props
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.DigitalWorldOnline.Admin.props
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.pack.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.build.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.development.json
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\scopedcss\bundle\DigitalWorldOnline.Admin.styles.css
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.CopyComplete
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\refint\DigitalWorldOnline.Admin.dll
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.genruntimeconfig.cache
+C:\DMO_EMU\SOURCE - DSO\DSO - SOURCE\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\ref\DigitalWorldOnline.Admin.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\appsettings.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.staticwebassets.runtime.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.exe
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\wwwroot\Images\dso_header.png
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.deps.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.runtimeconfig.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Core.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Identity.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Blazored.LocalStorage.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\FluentValidation.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Contracts.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MudBlazor.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Quartz.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.File.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Drawing.Common.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Memory.Data.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Runtime.Caching.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Permissions.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Windows.Extensions.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.pdb
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.pdb
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.AssemblyReference.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfoInputs.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfo.cs
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cs
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.DigitalWorldOnline.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.build.DigitalWorldOnline.Admin.props
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.DigitalWorldOnline.Admin.props
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.DigitalWorldOnline.Admin.props
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\scopedcss\bundle\DigitalWorldOnline.Admin.styles.css
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalW.41987B5E.Up2Date
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\refint\DigitalWorldOnline.Admin.dll
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.genruntimeconfig.cache
+C:\Users\Digitaluniverse\Desktop\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\ref\DigitalWorldOnline.Admin.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.exe
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\wwwroot\Images\dso_header.png
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.deps.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.runtimeconfig.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Blazored.LocalStorage.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\FluentValidation.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Contracts.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\MudBlazor.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Quartz.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.File.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Infraestructure.pdb
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Application.pdb
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\bin\Release\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.DigitalWorldOnline.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.build.DigitalWorldOnline.Admin.props
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.DigitalWorldOnline.Admin.props
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.DigitalWorldOnline.Admin.props
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\scopedcss\bundle\DigitalWorldOnline.Admin.styles.css
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalW.41987B5E.Up2Date
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\refint\DigitalWorldOnline.Admin.dll
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.pdb
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\DigitalWorldOnline.Admin.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DigitalUniverse\DigitalUniverse\src\Source\Distribution\DigitalWorldOnline.Admin\obj\Release\net7.0\ref\DigitalWorldOnline.Admin.dll
